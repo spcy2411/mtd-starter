@@ -102,7 +102,7 @@
     "data": [{
         "manifest": {
             "file_type": "csv",
-            "name": "YourData",
+            "name": "Bacan Malay",
             "skip_header": false,
             "transducers": [],
             "targets": {
@@ -111,6 +111,6 @@
                 "definition": "2"
             }
         },
-        "resource": "001.csv"
+        "resource": "002.csv"
     }]
 }
