@@ -106,9 +106,9 @@
             "skip_header": false,
             "transducers": [],
             "targets": {
-                "hw": "0",
-                "ps": "1",
-                "il": "2"
+                "word": "0",
+                "gc": "1",
+                "definition": "2"
             }
         },
         "resource": "001.csv"
