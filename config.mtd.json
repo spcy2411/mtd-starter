@@ -109,10 +109,8 @@
                 "word": "0",
                 "definition": "2",
                 "theme": "6",
-                "optional": {
-                    "Part of Speech": "1",
-                    "Example Sentence": "3"
-                }
+                "Part of Speech": "1",
+                "Example Sentence": "3"
             }
         },
         "resource": "002.csv"
