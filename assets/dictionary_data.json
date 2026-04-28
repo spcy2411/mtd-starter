@@ -92,15 +92,12 @@
     },
     "data": [
         {
-            "word": "hello",
-            "definition": "bonjour",
-            "entryID": "YourData00",
+            "word": "a:",
+            "definition": "*so ; *then",
+            "entryID": "YourData02",
             "sorting_form": [
-                7,
-                4,
-                11,
-                11,
-                14
+                0,
+                10058
             ],
             "theme": "",
             "secondary_theme": "",
@@ -113,12 +110,47 @@
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
             "optional": {},
-            "source": "YourData"
+            "source": "YourData",
+            "gc": "part"
+        },
+        {
+            "word": "-a",
+            "definition": "*his; *her; *its",
+            "entryID": "YourData00",
+            "sorting_form": [
+                10045,
+                0
+            ],
+            "theme": "",
+            "secondary_theme": "",
+            "img": "",
+            "audio": [],
+            "video": [],
+            "definition_audio": [],
+            "example_sentence": [],
+            "example_sentence_definition": [],
+            "example_sentence_audio": [],
+            "example_sentence_definition_audio": [],
+            "optional": {},
+            "source": "YourData",
+            "gc": "nm"
         }
     ],
     "l1_index": {
-        "hello": {
+        "a": {
             "YourData00": {
+                "location": [
+                    [
+                        "word",
+                        0
+                    ]
+                ],
+                "score": {
+                    "word": 0.0,
+                    "total": 0.0
+                }
+            },
+            "YourData02": {
                 "location": [
                     [
                         "word",
@@ -133,12 +165,68 @@
         }
     },
     "l2_index": {
-        "bonjour": {
+        "his": {
             "YourData00": {
                 "location": [
                     [
                         "definition",
                         0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0,
+                    "total": 0.0
+                }
+            }
+        },
+        "her": {
+            "YourData00": {
+                "location": [
+                    [
+                        "definition",
+                        1
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0,
+                    "total": 0.0
+                }
+            }
+        },
+        "it": {
+            "YourData00": {
+                "location": [
+                    [
+                        "definition",
+                        2
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0,
+                    "total": 0.0
+                }
+            }
+        },
+        "so": {
+            "YourData02": {
+                "location": [
+                    [
+                        "definition",
+                        0
+                    ]
+                ],
+                "score": {
+                    "definition": 0.0,
+                    "total": 0.0
+                }
+            }
+        },
+        "then": {
+            "YourData02": {
+                "location": [
+                    [
+                        "definition",
+                        1
                     ]
                 ],
                 "score": {
