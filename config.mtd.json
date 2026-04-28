@@ -102,16 +102,14 @@
     "data": [{
         "manifest": {
             "file_type": "csv",
-            "name": "001",
+            "name": "YourData",
             "skip_header": false,
             "transducers": [],
             "targets": {
-                "hw": "0",
-                "ps": "1",
-                "df": "2",
-                "il": "3"
+                "word": "0",
+                "definition": "1"
             }
         },
-        "resource": "001.csv"
+        "resource": "data.csv"
     }]
 }
