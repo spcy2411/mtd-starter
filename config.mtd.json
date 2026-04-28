@@ -107,8 +107,10 @@
             "transducers": [],
             "targets": {
                 "word": "0",
-                "gc": "1",
-                "definition": "2"
+                "definition": "2",
+                "optional": {
+                    "Part of Speech": "1"
+                }
             }
         },
         "resource": "002.csv"
