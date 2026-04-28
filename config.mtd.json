@@ -106,10 +106,11 @@
             "skip_header": false,
             "transducers": [],
             "targets": {
-                "word": "0",
-                "definition": "1"
+                "hw": "0",
+                "ps": "1",
+                "il": "2"
             }
         },
-        "resource": "data.csv"
+        "resource": "001.csv"
     }]
 }
