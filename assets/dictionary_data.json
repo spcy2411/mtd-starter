@@ -86,6 +86,8 @@
         ],
         "optional_field_name": "Optional Field",
         "credits": null,
+        "aboutPageImg": "https://placehold.co/600x400",
+        "aboutPageDescription": "Please change this text to describe your dictionary in a bit more detail.",
         "build": "1694556630"
     },
     "data": [
