@@ -1,6 +1,6 @@
 {
     "config": {
-        "L1": "YourLanguage",
+        "L1": "Bacan Malay",
         "L2": "English",
         "l1_search_strategy": "weighted_levenstein",
         "l2_search_strategy": "liblevenstein_automata",
