@@ -108,13 +108,14 @@
             "targets": {
                 "word": "0",
                 "definition": "2",
-                "theme": "6",
+                "theme": "7",
                 "optional": {
                     "Part of Speech": "1",
-                    "Example Sentence": "3"
+                    "Example Sentence": "3",
+                    "Language of Origin": "10"
                 }
             }
         },
-        "resource": "003.csv"
+        "resource": "002.csv"
     }]
 }
