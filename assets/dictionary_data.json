@@ -110,10 +110,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "abok",
@@ -135,10 +136,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ada",
@@ -159,10 +161,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vi",
-            "Example Sentence": "de belabelang de itu ada lapangan anu ap\u008e terbang | At Belang-Belang over there; there ; cece dua pulu belek basisa ke ada | Never mind twenty conatainers; there would even be"
+            "optional": {
+                "Part of Speech": "vi",
+                "Example Sentence": "de belabelang de itu ada lapangan anu ap\u008e terbang | At Belang-Belang over there; there ; cece dua pulu belek basisa ke ada | Never mind twenty conatainers; there would even be"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adaing$1",
@@ -188,10 +191,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": "Adaing kuumbuk de Matius | Later on; I'll ask Matius for it."
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": "Adaing kuumbuk de Matius | Later on; I'll ask Matius for it."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adaing$2",
@@ -217,10 +221,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "Cece balampo adaing aku | Don't go; wait for me."
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "Cece balampo adaing aku | Don't go; wait for me."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adang",
@@ -243,10 +248,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "torus kami barikang tala pake adangi mo | Then we went fishing; we had no use for"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "torus kami barikang tala pake adangi mo | Then we went fishing; we had no use for"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adapang",
@@ -271,10 +277,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adat",
@@ -296,10 +303,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ada harus",
@@ -326,10 +334,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "adv",
-            "Example Sentence": "ada harus si abu bakar ilia lau itu | No wonder Abu Bakar saw it there."
+            "optional": {
+                "Part of Speech": "adv",
+                "Example Sentence": "ada harus si abu bakar ilia lau itu | No wonder Abu Bakar saw it there."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ada kalanya",
@@ -358,10 +367,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ade:",
@@ -383,10 +393,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ade: de: de:",
@@ -416,10 +427,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adi",
@@ -440,10 +452,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "adingku bini-bini| my sister ; musi barunding puang nang inaku nang inaku kakana nang adina mena | Then we must confer with my mother and with my mother's older and younger siblings first."
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "adingku bini-bini| my sister ; musi barunding puang nang inaku nang inaku kakana nang adina mena | Then we must confer with my mother and with my mother's older and younger siblings first."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ado:",
@@ -465,10 +478,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ado: do: do:",
@@ -498,10 +512,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adr\u008es",
@@ -524,10 +539,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "adu",
@@ -548,10 +564,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aduping",
@@ -576,10 +593,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "agama",
@@ -602,10 +620,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "agas",
@@ -627,10 +646,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ahal\u0092",
@@ -653,10 +673,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aher\u0087t",
@@ -680,10 +701,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ahir",
@@ -705,10 +727,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ahirnya",
@@ -733,10 +756,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "conj",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "conj",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ah\u0087t",
@@ -758,10 +782,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ai",
@@ -781,10 +806,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": "ai kam\u009c ke inga-ingat bahasanta tu i: | Hey; all of you should always be mindful of that"
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": "ai kam\u009c ke inga-ingat bahasanta tu i: | Hey; all of you should always be mindful of that"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "air goraka",
@@ -812,10 +838,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ajar",
@@ -837,10 +864,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "nyawaku mantak po kuajar si Umar | I was really offended so I told Umar off"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "nyawaku mantak po kuajar si Umar | I was really offended so I told Umar off"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ajarang",
@@ -865,10 +893,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ajeri",
@@ -891,10 +920,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ajeri:",
@@ -918,10 +948,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ajimat",
@@ -945,10 +976,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "akal",
@@ -970,10 +1002,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "akal barisi | many ways to solve (a problem)"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "akal barisi | many ways to solve (a problem)"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "akang$1",
@@ -998,10 +1031,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": "a itu akang tida bisa | So; that will be impossible. ; adaing kapala perkebunan akang mubei mangarti | Later the agriculture officer will"
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": "a itu akang tida bisa | So; that will be impossible. ; adaing kapala perkebunan akang mubei mangarti | Later the agriculture officer will"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "akang$2",
@@ -1026,10 +1060,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vm",
-            "Example Sentence": "kau mucamuni akang de ruma habua puang | You should have hidden it in a house for"
+            "optional": {
+                "Part of Speech": "vm",
+                "Example Sentence": "kau mucamuni akang de ruma habua puang | You should have hidden it in a house for"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "akang$3",
@@ -1054,10 +1089,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "conj",
-            "Example Sentence": "a kita balapetak yogo ka da: bakaya akang kani: lapetak ni lambat| So we garden and go inland to collect sago pith; nonetheless it is certain the garden will be late (for harvesting)"
+            "optional": {
+                "Part of Speech": "conj",
+                "Example Sentence": "a kita balapetak yogo ka da: bakaya akang kani: lapetak ni lambat| So we garden and go inland to collect sago pith; nonetheless it is certain the garden will be late (for harvesting)"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "akar",
@@ -1079,10 +1115,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aku$1",
@@ -1105,10 +1142,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "pn",
-            "Example Sentence": "aku yogo kutanyai kau habua hadiki | I want to ask you about something; please. ; haiku ini mubei aku doit tolu ratus ka mai | This guy gave me three hundred rupiah"
+            "optional": {
+                "Part of Speech": "pn",
+                "Example Sentence": "aku yogo kutanyai kau habua hadiki | I want to ask you about something; please. ; haiku ini mubei aku doit tolu ratus ka mai | This guy gave me three hundred rupiah"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aku$2",
@@ -1131,10 +1169,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "kuakui laki-laki tu memang jagona| I admit that man surely has prowess"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "kuakui laki-laki tu memang jagona| I admit that man surely has prowess"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ak\u0092",
@@ -1155,10 +1194,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ala",
@@ -1179,10 +1219,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "nyawana ia ma bei ga tu muala jamingku| Whose heart let him take my watch? (Who ; basal\u0087ng ala de tanggal kani: ahat tu sak | If you start with the calendar; then it surely ; baku ini ma ala paisu| This sago bread sops up the sauce"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "nyawana ia ma bei ga tu muala jamingku| Whose heart let him take my watch? (Who ; basal\u0087ng ala de tanggal kani: ahat tu sak | If you start with the calendar; then it surely ; baku ini ma ala paisu| This sago bread sops up the sauce"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alabobo",
@@ -1207,10 +1248,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alahumadaf\u0087",
@@ -1239,10 +1281,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alam",
@@ -1264,10 +1307,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alangang",
@@ -1293,10 +1337,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "kami ini nang alangang po pauli mo balampo jau| We have a difficulty to deal with so"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "kami ini nang alangang po pauli mo balampo jau| We have a difficulty to deal with so"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alang-alang",
@@ -1325,10 +1370,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alap",
@@ -1350,10 +1396,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "Mualap akang langker inycana kamai. |Invite that elder there to come here."
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "Mualap akang langker inycana kamai. |Invite that elder there to come here."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alapi:",
@@ -1377,10 +1424,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "Mualap\u0092: aku glas aku yogo kulonggar paisu. |Get me a glass; I want to drink some"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "Mualap\u0092: aku glas aku yogo kulonggar paisu. |Get me a glass; I want to drink some"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alat",
@@ -1402,10 +1450,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alaw\u0092s",
@@ -1429,10 +1478,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ala:",
@@ -1454,10 +1504,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "excl",
-            "Example Sentence": "ala: tauli ka lau majang| Lord! We looked out towards the horizon and it was great!"
+            "optional": {
+                "Part of Speech": "excl",
+                "Example Sentence": "ala: tauli ka lau majang| Lord! We looked out towards the horizon and it was great!"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alelend\u0092",
@@ -1483,10 +1534,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alengo",
@@ -1510,10 +1562,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": "alengo kulanggari pasar sunyi manusia mo| A few minutes ago I passed by the market. ; ...supaya daung alengo itu dadi kasal| ...so that the aforementioned leaves become"
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": "alengo kulanggari pasar sunyi manusia mo| A few minutes ago I passed by the market. ; ...supaya daung alengo itu dadi kasal| ...so that the aforementioned leaves become"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ale-ale",
@@ -1538,10 +1591,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vt",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "vt",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alidar\u0087ng",
@@ -1568,10 +1622,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alifuru",
@@ -1596,10 +1651,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "si jani alifuruna| Mujani's lack of sophistication is really something."
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "si jani alifuruna| Mujani's lack of sophistication is really something."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alilipang",
@@ -1626,10 +1682,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alim",
@@ -1651,10 +1708,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alimamayang",
@@ -1683,10 +1741,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alimarang",
@@ -1713,10 +1772,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alimpapat",
@@ -1743,10 +1803,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alimposuk",
@@ -1773,10 +1834,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alinamung",
@@ -1803,10 +1865,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alinang kalo",
@@ -1836,10 +1899,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alinggoi",
@@ -1865,10 +1929,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alintangang",
@@ -1897,10 +1962,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aliofa",
@@ -1924,10 +1990,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "almanangkir",
@@ -1956,10 +2023,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alman\u0087k",
@@ -1984,10 +2052,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "almarh\u009cm",
@@ -2013,10 +2082,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "almarh\u009cm pa umar| Mr. Umar; the deceased"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "almarh\u009cm pa umar| Mr. Umar; the deceased"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alolang",
@@ -2041,10 +2111,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alu",
@@ -2065,10 +2136,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alus",
@@ -2090,10 +2162,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vi",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "vi",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alu-alu",
@@ -2118,10 +2191,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "alu-alungang",
@@ -2151,10 +2225,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aman",
@@ -2176,10 +2251,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vi",
-            "Example Sentence": "jadi rencana alengo itu gagal karna tala aman | Thus; that plan of theirs failed because it"
+            "optional": {
+                "Part of Speech": "vi",
+                "Example Sentence": "jadi rencana alengo itu gagal karna tala aman | Thus; that plan of theirs failed because it"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "amas",
@@ -2201,10 +2277,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "amasing kali",
@@ -2234,10 +2311,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "amasing kota",
@@ -2267,10 +2345,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ambasaya",
@@ -2296,10 +2375,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ambat",
@@ -2322,10 +2402,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "Ambat ka kairi | Cast lefthand"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "Ambat ka kairi | Cast lefthand"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ambaya",
@@ -2349,10 +2430,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "conj",
-            "Example Sentence": "Ambaya ujang pasi batodu de jojaga. |When it began to rain; they sought shelter in a ; ambaya motor itu kapo de ini; kami barikang| When the motorboat arrives here; we will"
+            "optional": {
+                "Part of Speech": "conj",
+                "Example Sentence": "Ambaya ujang pasi batodu de jojaga. |When it began to rain; they sought shelter in a ; ambaya motor itu kapo de ini; kami barikang| When the motorboat arrives here; we will"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ambon",
@@ -2375,10 +2457,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ambulung",
@@ -2404,10 +2487,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "bakaya de si\u0087 ambulunga | You're going to process sago flour at whose sago palms?"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "bakaya de si\u0087 ambulunga | You're going to process sago flour at whose sago palms?"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "amo",
@@ -2428,10 +2512,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ampar",
@@ -2454,10 +2539,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ampas",
@@ -2480,10 +2566,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ampat",
@@ -2506,10 +2593,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "num",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "num",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ampong",
@@ -2533,10 +2621,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "Harap ampong de kami dangang. |We hope you'll forgive us."
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "Harap ampong de kami dangang. |We hope you'll forgive us."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "amporing",
@@ -2562,10 +2651,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "am\u0087l",
@@ -2587,10 +2677,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anagakang",
@@ -2617,10 +2708,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anak",
@@ -2642,10 +2734,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "anaku | my child ; perna bawali inycana muba: anaka sondor surat | Once Bawali over there was traveling"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "anaku | my child ; perna bawali inycana muba: anaka sondor surat | Once Bawali over there was traveling"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anam",
@@ -2667,10 +2760,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "num",
-            "Example Sentence": "anam ratus | six hundred ; anam pulu | sixty"
+            "optional": {
+                "Part of Speech": "num",
+                "Example Sentence": "anam ratus | six hundred ; anam pulu | sixty"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anang",
@@ -2693,10 +2787,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "num",
-            "Example Sentence": "anang ari | six days"
+            "optional": {
+                "Part of Speech": "num",
+                "Example Sentence": "anang ari | six days"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anasage",
@@ -2721,10 +2816,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ana seni",
@@ -2750,10 +2846,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "ini ana seni sakarang basal\u0087ng pasi duduk bangaji ilakat bacarita | Kids nowadays; if"
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "ini ana seni sakarang basal\u0087ng pasi duduk bangaji ilakat bacarita | Kids nowadays; if"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ana-anadara",
@@ -2782,10 +2879,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "vi",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "vi",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "andap",
@@ -2808,10 +2906,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "andeket",
@@ -2836,10 +2935,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": "andeket jawa ini katakutang | This Javanese youth became frightened."
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": "andeket jawa ini katakutang | This Javanese youth became frightened."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ande-ande$1",
@@ -2868,10 +2968,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "ande-ande$2",
@@ -2900,10 +3001,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "conj",
-            "Example Sentence": "ande-ande saiku lima pulu ...| If one fish is fifty (rupiah)..."
+            "optional": {
+                "Part of Speech": "conj",
+                "Example Sentence": "ande-ande saiku lima pulu ...| If one fish is fifty (rupiah)..."
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anei",
@@ -2925,10 +3027,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "aniaya",
@@ -2952,10 +3055,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "manusia muaniaya itu kaleronta| Someone ruined it; our bonfire"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "manusia muaniaya itu kaleronta| Someone ruined it; our bonfire"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "antara",
@@ -2979,10 +3083,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "prep",
-            "Example Sentence": "antara fini nang fini | between planting seeds"
+            "optional": {
+                "Part of Speech": "prep",
+                "Example Sentence": "antara fini nang fini | between planting seeds"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "antarjiwa",
@@ -3009,10 +3114,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "antawali",
@@ -3038,10 +3144,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "anti",
@@ -3063,10 +3170,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "antimung",
@@ -3092,10 +3200,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "antuk",
@@ -3118,10 +3227,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "v",
-            "Example Sentence": "alengo abd\u009cl muantuki si muks\u0092n di dinding| Just now Abdul knocked Muksin's head"
+            "optional": {
+                "Part of Speech": "v",
+                "Example Sentence": "alengo abd\u009cl muantuki si muks\u0092n di dinding| Just now Abdul knocked Muksin's head"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "a:",
@@ -3141,10 +3251,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "part",
-            "Example Sentence": "A: sakarang aku tungkangi kau | So now I will explain to you"
+            "optional": {
+                "Part of Speech": "part",
+                "Example Sentence": "A: sakarang aku tungkangi kau | So now I will explain to you"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "hw",
@@ -3164,10 +3275,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "ps",
-            "Example Sentence": "il"
+            "optional": {
+                "Part of Speech": "ps",
+                "Example Sentence": "il"
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "Allah",
@@ -3190,10 +3302,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "n",
-            "Example Sentence": ""
+            "optional": {
+                "Part of Speech": "n",
+                "Example Sentence": ""
+            },
+            "source": "Bacan Malay"
         },
         {
             "word": "-a",
@@ -3213,10 +3326,11 @@
             "example_sentence_definition": [],
             "example_sentence_audio": [],
             "example_sentence_definition_audio": [],
-            "optional": {},
-            "source": "Bacan Malay",
-            "Part of Speech": "nm",
-            "Example Sentence": "losung anaka | *mortar (child of a pestle) ; bayaka sarunga | sheath of a machete"
+            "optional": {
+                "Part of Speech": "nm",
+                "Example Sentence": "losung anaka | *mortar (child of a pestle) ; bayaka sarunga | sheath of a machete"
+            },
+            "source": "Bacan Malay"
         }
     ],
     "l1_index": {
