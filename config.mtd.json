@@ -43,12 +43,16 @@
             "n",
             "o",
             "p",
+            "q",
             "r",
             "s",
             "t",
             "u",
+            "v",
             "w",
+            "x",
             "y",
+            "z",
             "A",
             "B",
             "C",
@@ -65,12 +69,16 @@
             "N",
             "O",
             "P",
+            "Q",
             "R",
             "S",
             "T",
             "U",
+            "V",
             "W",
-            "Y"
+            "X",
+            "Y",
+            "Z"
         ],
         "optional_field_name": "Optional Field",
         "build": "1694556630",
@@ -100,14 +108,13 @@
             "targets": {
                 "word": "0",
                 "definition": "2",
-                "theme": "7",
+                "theme": "6",
                 "optional": {
                     "Part of Speech": "1",
-                    "Example Sentence": "3",
-                    "Language of Origin": "10"
+                    "Example Sentence": "3"
                 }
             }
         },
-        "resource": "003.csv"
+        "resource": "002.csv"
     }]
 }
