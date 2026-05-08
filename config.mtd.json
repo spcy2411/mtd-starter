@@ -98,16 +98,30 @@
             "skip_header": true,
             "transducers": [],
             "targets": {
-                "word": "0",
-                "definition": "2",
-                "theme": "7",
+                "word": "1",
+                "definition": "3",
+                "theme": "19",
                 "optional": {
-                    "Part of Speech": "1",
-                    "Example Sentence": "3",
-                    "Language of Origin": "10"
+                    "Part of Speech": "2",
+                    "Language of Origin": "20",
+                    "Scientific Name" : "16",
+                    "Grammatical Information" : "17",
+                    "Social Context" : "18",
+                    "Example Sentence": "4",
+                    "Translation": "5",
+                    "Example Sentence": "6",
+                    "Translation": "7",
+                    "Example Sentence": "8",
+                    "Translation": "9",
+                    "Example Sentence": "10",
+                    "Translation": "11",
+                    "Example Sentence": "12",
+                    "Translation": "13",
+                    "Example Sentence": "14",
+                    "Translation": "15"
                             }
                         }
                         },
-        "resource": "008.csv"
+        "resource": "011.csv"
     }]
 }
