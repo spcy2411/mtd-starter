@@ -89,8 +89,7 @@
         ],
         "required_fields": [
             "word",
-            "definition",
-            "Part of Speech"
+            "definition"
         ]
     },
     "data": [{
@@ -102,9 +101,9 @@
             "targets": {
                 "word": "1",
                 "definition": "3",
-                "Part of Speech": "2",
                 "theme": "19",
                 "optional": {
+                    "Part of Speech": "2",
                     "Language of Origin": "20",
                     "Scientific Name" : "16",
                     "Grammatical Information" : "17",
