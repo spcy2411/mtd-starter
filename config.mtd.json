@@ -9,7 +9,7 @@
             "deletionCost": 1.0,
             "insertionAtBeginningCost": 1.0,
             "deletionAtEndCost": 1.0,
-            "substitutionCosts": "weights.csv",
+            "substitutionCostsPath": "weights.csv",
             "defaultSubstitutionCost": 1.0
         },
         "l1_stemmer": "none",
