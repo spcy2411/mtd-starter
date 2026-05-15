@@ -9,8 +9,39 @@
             "deletionCost": 1.0,
             "insertionAtBeginningCost": 1.0,
             "deletionAtEndCost": 1.0,
-            "substitutionCosts": {},
-            "substitutionCostsPath": null,
+            "substitutionCosts": {
+                "a\u0301": {
+                    "a": 0.5
+                },
+                "a": {
+                    "a\u0301": 0.5
+                },
+                "i\u0301": {
+                    "i": 0.5
+                },
+                "i": {
+                    "i\u0301": 0.5
+                },
+                "o\u0301": {
+                    "o": 0.5
+                },
+                "o": {
+                    "o\u0301": 0.5
+                },
+                "u\u0301": {
+                    "u": 0.5
+                },
+                "u": {
+                    "u\u0301": 0.5
+                },
+                "e\u0301": {
+                    "e": 0.5
+                },
+                "e": {
+                    "e\u0301": 0.5
+                }
+            },
+            "substitutionCostsPath": "/home/runner/work/mtd-starter/mtd-starter/weights.csv",
             "defaultSubstitutionCost": 1.0
         },
         "l2_search_config": null,
@@ -78,8 +109,8 @@
         ],
         "optional_field_name": "Optional Field",
         "credits": null,
-        "aboutPageImg": "https://placehold.co/600x400",
-        "aboutPageDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "aboutPageImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bacan_Topography.png/960px-Bacan_Topography.png",
+        "aboutPageDescription": "test",
         "build": "1694556630"
     },
     "data": [
