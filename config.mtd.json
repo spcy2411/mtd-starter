@@ -102,8 +102,7 @@
             "targets": {
                 "word": "1",
                 "definition": "3",
-                "theme": "21",
-                "secondary_theme": "19",
+                "theme": "19",
                 "optional": {
                     "Part of Speech": "2",
                     "Language of Origin": "20",
